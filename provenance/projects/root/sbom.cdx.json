@@ -2897,7 +2897,7 @@
           "name": "AWS SDK for JavaScript Team (https://aws.amazon.com/sdk-for-javascript/)"
         }
       ],
-      "bom-ref": "pkg:npm/@aws-sdk/client-cloudwatch@3.1126.0",
+      "bom-ref": "pkg:npm/@aws-sdk/client-cloudwatch@3.1127.0",
       "description": "AWS SDK for JavaScript Cloudwatch Client for Node.js, Browser and React Native",
       "evidence": {
         "identity": [
@@ -2950,13 +2950,13 @@
           "value": "apps/api/node_modules/@aws-sdk/client-cloudwatch/package.json"
         }
       ],
-      "purl": "pkg:npm/%40aws-sdk/client-cloudwatch@3.1126.0",
+      "purl": "pkg:npm/%40aws-sdk/client-cloudwatch@3.1127.0",
       "scope": "required",
       "tags": [
         "framework"
       ],
       "type": "framework",
-      "version": "3.1126.0"
+      "version": "3.1127.0"
     },
     {
       "authors": [
@@ -2964,7 +2964,7 @@
           "name": "AWS SDK for JavaScript Team (https://aws.amazon.com/sdk-for-javascript/)"
         }
       ],
-      "bom-ref": "pkg:npm/@aws-sdk/client-s3@3.1126.0",
+      "bom-ref": "pkg:npm/@aws-sdk/client-s3@3.1127.0",
       "description": "AWS SDK for JavaScript S3 Client for Node.js, Browser and React Native",
       "evidence": {
         "identity": [
@@ -3020,13 +3020,13 @@
           "value": "apps/api/node_modules/@aws-sdk/client-s3/package.json"
         }
       ],
-      "purl": "pkg:npm/%40aws-sdk/client-s3@3.1126.0",
+      "purl": "pkg:npm/%40aws-sdk/client-s3@3.1127.0",
       "scope": "required",
       "tags": [
         "framework"
       ],
       "type": "framework",
-      "version": "3.1126.0"
+      "version": "3.1127.0"
     },
     {
       "authors": [
@@ -3034,7 +3034,7 @@
           "name": "AWS SDK for JavaScript Team (https://aws.amazon.com/sdk-for-javascript/)"
         }
       ],
-      "bom-ref": "pkg:npm/@aws-sdk/client-sesv2@3.1126.0",
+      "bom-ref": "pkg:npm/@aws-sdk/client-sesv2@3.1127.0",
       "description": "AWS SDK for JavaScript Sesv2 Client for Node.js, Browser and React Native",
       "evidence": {
         "identity": [
@@ -3087,13 +3087,13 @@
           "value": "apps/api/node_modules/@aws-sdk/client-sesv2/package.json"
         }
       ],
-      "purl": "pkg:npm/%40aws-sdk/client-sesv2@3.1126.0",
+      "purl": "pkg:npm/%40aws-sdk/client-sesv2@3.1127.0",
       "scope": "required",
       "tags": [
         "framework"
       ],
       "type": "framework",
-      "version": "3.1126.0"
+      "version": "3.1127.0"
     },
     {
       "authors": [
@@ -3101,7 +3101,7 @@
           "name": "AWS SDK for JavaScript Team (https://aws.amazon.com/sdk-for-javascript/)"
         }
       ],
-      "bom-ref": "pkg:npm/@aws-sdk/client-sts@3.1126.0",
+      "bom-ref": "pkg:npm/@aws-sdk/client-sts@3.1127.0",
       "description": "AWS SDK for JavaScript Sts Client for Node.js, Browser and React Native",
       "evidence": {
         "identity": [
@@ -3154,13 +3154,13 @@
           "value": "apps/api/node_modules/@aws-sdk/client-sts/package.json"
         }
       ],
-      "purl": "pkg:npm/%40aws-sdk/client-sts@3.1126.0",
+      "purl": "pkg:npm/%40aws-sdk/client-sts@3.1127.0",
       "scope": "required",
       "tags": [
         "framework"
       ],
       "type": "framework",
-      "version": "3.1126.0"
+      "version": "3.1127.0"
     },
     {
       "authors": [
@@ -3168,7 +3168,7 @@
           "name": "AWS SDK for JavaScript Team (https://aws.amazon.com/sdk-for-javascript/)"
         }
       ],
-      "bom-ref": "pkg:npm/@aws-sdk/s3-request-presigner@3.1126.0",
+      "bom-ref": "pkg:npm/@aws-sdk/s3-request-presigner@3.1127.0",
       "evidence": {
         "identity": [
           {
@@ -3220,13 +3220,13 @@
           "value": "apps/api/node_modules/@aws-sdk/s3-request-presigner/package.json"
         }
       ],
-      "purl": "pkg:npm/%40aws-sdk/s3-request-presigner@3.1126.0",
+      "purl": "pkg:npm/%40aws-sdk/s3-request-presigner@3.1127.0",
       "scope": "required",
       "tags": [
         "framework"
       ],
       "type": "framework",
-      "version": "3.1126.0"
+      "version": "3.1127.0"
     },
     {
       "authors": [
@@ -14631,7 +14631,7 @@
       "version": "2.11.1"
     },
     {
-      "bom-ref": "pkg:npm/@tiptap/core@3.31.2",
+      "bom-ref": "pkg:npm/@tiptap/core@3.31.3",
       "description": "headless rich text editor",
       "evidence": {
         "identity": [
@@ -14723,13 +14723,13 @@
           "value": "apps/web/node_modules/@tiptap/core/package.json"
         }
       ],
-      "purl": "pkg:npm/%40tiptap/core@3.31.2",
+      "purl": "pkg:npm/%40tiptap/core@3.31.3",
       "scope": "required",
       "type": "library",
-      "version": "3.31.2"
+      "version": "3.31.3"
     },
     {
-      "bom-ref": "pkg:npm/@tiptap/extension-bold@3.31.2",
+      "bom-ref": "pkg:npm/@tiptap/extension-bold@3.31.3",
       "description": "bold extension for tiptap",
       "evidence": {
         "identity": [
@@ -14788,13 +14788,13 @@
           "value": "apps/web/node_modules/@tiptap/extension-bold/package.json"
         }
       ],
-      "purl": "pkg:npm/%40tiptap/extension-bold@3.31.2",
+      "purl": "pkg:npm/%40tiptap/extension-bold@3.31.3",
       "scope": "required",
       "type": "library",
-      "version": "3.31.2"
+      "version": "3.31.3"
     },
     {
-      "bom-ref": "pkg:npm/@tiptap/extension-document@3.31.2",
+      "bom-ref": "pkg:npm/@tiptap/extension-document@3.31.3",
       "description": "document extension for tiptap",
       "evidence": {
         "identity": [
@@ -14850,13 +14850,13 @@
           "value": "apps/web/node_modules/@tiptap/extension-document/package.json"
         }
       ],
-      "purl": "pkg:npm/%40tiptap/extension-document@3.31.2",
+      "purl": "pkg:npm/%40tiptap/extension-document@3.31.3",
       "scope": "required",
       "type": "library",
-      "version": "3.31.2"
+      "version": "3.31.3"
     },
     {
-      "bom-ref": "pkg:npm/@tiptap/extension-hard-break@3.31.2",
+      "bom-ref": "pkg:npm/@tiptap/extension-hard-break@3.31.3",
       "description": "hard break extension for tiptap",
       "evidence": {
         "identity": [
@@ -14909,13 +14909,13 @@
           "value": "apps/web/node_modules/@tiptap/extension-hard-break/package.json"
         }
       ],
-      "purl": "pkg:npm/%40tiptap/extension-hard-break@3.31.2",
+      "purl": "pkg:npm/%40tiptap/extension-hard-break@3.31.3",
       "scope": "required",
       "type": "library",
-      "version": "3.31.2"
+      "version": "3.31.3"
     },
     {
-      "bom-ref": "pkg:npm/@tiptap/extension-heading@3.31.2",
+      "bom-ref": "pkg:npm/@tiptap/extension-heading@3.31.3",
       "description": "heading extension for tiptap",
       "evidence": {
         "identity": [
@@ -14968,13 +14968,13 @@
           "value": "apps/web/node_modules/@tiptap/extension-heading/package.json"
         }
       ],
-      "purl": "pkg:npm/%40tiptap/extension-heading@3.31.2",
+      "purl": "pkg:npm/%40tiptap/extension-heading@3.31.3",
       "scope": "required",
       "type": "library",
-      "version": "3.31.2"
+      "version": "3.31.3"
     },
     {
-      "bom-ref": "pkg:npm/@tiptap/extension-history@3.31.2",
+      "bom-ref": "pkg:npm/@tiptap/extension-history@3.31.3",
       "description": "history extension for tiptap",
       "evidence": {
         "identity": [
@@ -15033,13 +15033,13 @@
           "value": "apps/web/node_modules/@tiptap/extension-history/package.json"
         }
       ],
-      "purl": "pkg:npm/%40tiptap/extension-history@3.31.2",
+      "purl": "pkg:npm/%40tiptap/extension-history@3.31.3",
       "scope": "required",
       "type": "library",
-      "version": "3.31.2"
+      "version": "3.31.3"
     },
     {
-      "bom-ref": "pkg:npm/@tiptap/extension-italic@3.31.2",
+      "bom-ref": "pkg:npm/@tiptap/extension-italic@3.31.3",
       "description": "italic extension for tiptap",
       "evidence": {
         "identity": [
@@ -15092,13 +15092,13 @@
           "value": "apps/web/node_modules/@tiptap/extension-italic/package.json"
         }
       ],
-      "purl": "pkg:npm/%40tiptap/extension-italic@3.31.2",
+      "purl": "pkg:npm/%40tiptap/extension-italic@3.31.3",
       "scope": "required",
       "type": "library",
-      "version": "3.31.2"
+      "version": "3.31.3"
     },
     {
-      "bom-ref": "pkg:npm/@tiptap/extension-list@3.31.2",
+      "bom-ref": "pkg:npm/@tiptap/extension-list@3.31.3",
       "description": "List extension for tiptap",
       "evidence": {
         "identity": [
@@ -15151,13 +15151,13 @@
           "value": "apps/web/node_modules/@tiptap/extension-list/package.json"
         }
       ],
-      "purl": "pkg:npm/%40tiptap/extension-list@3.31.2",
+      "purl": "pkg:npm/%40tiptap/extension-list@3.31.3",
       "scope": "required",
       "type": "library",
-      "version": "3.31.2"
+      "version": "3.31.3"
     },
     {
-      "bom-ref": "pkg:npm/@tiptap/extension-mention@3.31.2",
+      "bom-ref": "pkg:npm/@tiptap/extension-mention@3.31.3",
       "description": "mention extension for tiptap",
       "evidence": {
         "identity": [
@@ -15228,13 +15228,13 @@
           "value": "apps/web/node_modules/@tiptap/extension-mention/package.json"
         }
       ],
-      "purl": "pkg:npm/%40tiptap/extension-mention@3.31.2",
+      "purl": "pkg:npm/%40tiptap/extension-mention@3.31.3",
       "scope": "required",
       "type": "library",
-      "version": "3.31.2"
+      "version": "3.31.3"
     },
     {
-      "bom-ref": "pkg:npm/@tiptap/extension-paragraph@3.31.2",
+      "bom-ref": "pkg:npm/@tiptap/extension-paragraph@3.31.3",
       "description": "paragraph extension for tiptap",
       "evidence": {
         "identity": [
@@ -15293,13 +15293,13 @@
           "value": "apps/web/node_modules/@tiptap/extension-paragraph/package.json"
         }
       ],
-      "purl": "pkg:npm/%40tiptap/extension-paragraph@3.31.2",
+      "purl": "pkg:npm/%40tiptap/extension-paragraph@3.31.3",
       "scope": "required",
       "type": "library",
-      "version": "3.31.2"
+      "version": "3.31.3"
     },
     {
-      "bom-ref": "pkg:npm/@tiptap/extension-placeholder@3.31.2",
+      "bom-ref": "pkg:npm/@tiptap/extension-placeholder@3.31.3",
       "description": "placeholder extension for tiptap",
       "evidence": {
         "identity": [
@@ -15358,13 +15358,13 @@
           "value": "apps/web/node_modules/@tiptap/extension-placeholder/package.json"
         }
       ],
-      "purl": "pkg:npm/%40tiptap/extension-placeholder@3.31.2",
+      "purl": "pkg:npm/%40tiptap/extension-placeholder@3.31.3",
       "scope": "required",
       "type": "library",
-      "version": "3.31.2"
+      "version": "3.31.3"
     },
     {
-      "bom-ref": "pkg:npm/@tiptap/extension-text@3.31.2",
+      "bom-ref": "pkg:npm/@tiptap/extension-text@3.31.3",
       "description": "text extension for tiptap",
       "evidence": {
         "identity": [
@@ -15423,13 +15423,13 @@
           "value": "apps/web/node_modules/@tiptap/extension-text/package.json"
         }
       ],
-      "purl": "pkg:npm/%40tiptap/extension-text@3.31.2",
+      "purl": "pkg:npm/%40tiptap/extension-text@3.31.3",
       "scope": "required",
       "type": "library",
-      "version": "3.31.2"
+      "version": "3.31.3"
     },
     {
-      "bom-ref": "pkg:npm/@tiptap/pm@3.31.2",
+      "bom-ref": "pkg:npm/@tiptap/pm@3.31.3",
       "description": "prosemirror wrapper package for tiptap",
       "evidence": {
         "identity": [
@@ -15500,13 +15500,13 @@
           "value": "apps/web/node_modules/@tiptap/pm/package.json"
         }
       ],
-      "purl": "pkg:npm/%40tiptap/pm@3.31.2",
+      "purl": "pkg:npm/%40tiptap/pm@3.31.3",
       "scope": "required",
       "type": "library",
-      "version": "3.31.2"
+      "version": "3.31.3"
     },
     {
-      "bom-ref": "pkg:npm/@tiptap/react@3.31.2",
+      "bom-ref": "pkg:npm/@tiptap/react@3.31.3",
       "description": "React components for tiptap",
       "evidence": {
         "identity": [
@@ -17749,13 +17749,13 @@
           "value": "apps/web/node_modules/@tiptap/react/package.json"
         }
       ],
-      "purl": "pkg:npm/%40tiptap/react@3.31.2",
+      "purl": "pkg:npm/%40tiptap/react@3.31.3",
       "scope": "required",
       "type": "library",
-      "version": "3.31.2"
+      "version": "3.31.3"
     },
     {
-      "bom-ref": "pkg:npm/@tiptap/suggestion@3.31.2",
+      "bom-ref": "pkg:npm/@tiptap/suggestion@3.31.3",
       "description": "suggestion plugin for tiptap",
       "evidence": {
         "identity": [
@@ -17826,10 +17826,10 @@
           "value": "apps/web/node_modules/@tiptap/suggestion/package.json"
         }
       ],
-      "purl": "pkg:npm/%40tiptap/suggestion@3.31.2",
+      "purl": "pkg:npm/%40tiptap/suggestion@3.31.3",
       "scope": "required",
       "type": "library",
-      "version": "3.31.2"
+      "version": "3.31.3"
     },
     {
       "authors": [
@@ -28589,7 +28589,7 @@
           "name": " Inc."
         }
       ],
-      "bom-ref": "pkg:npm/expo-router@57.0.18",
+      "bom-ref": "pkg:npm/expo-router@57.0.19",
       "description": "Expo Router is a file-based router for React Native and web applications.",
       "evidence": {
         "identity": [
@@ -28645,13 +28645,13 @@
           "value": "apps/mobile/node_modules/expo-router/package.json"
         }
       ],
-      "purl": "pkg:npm/expo-router@57.0.18",
+      "purl": "pkg:npm/expo-router@57.0.19",
       "scope": "required",
       "tags": [
         "web"
       ],
       "type": "library",
-      "version": "57.0.18"
+      "version": "57.0.19"
     },
     {
       "authors": [
@@ -29167,7 +29167,7 @@
           "name": "Filip Skokan <panva.ip@gmail.com>"
         }
       ],
-      "bom-ref": "pkg:npm/jose@6.2.10",
+      "bom-ref": "pkg:npm/jose@6.2.11",
       "description": "JWA, JWS, JWE, JWT, JWK, JWKS for Node.js, Browser, Cloudflare Workers, Deno, Bun, and other Web-interoperable runtimes",
       "evidence": {
         "identity": [
@@ -29240,13 +29240,13 @@
           "value": "apps/api/node_modules/jose/package.json"
         }
       ],
-      "purl": "pkg:npm/jose@6.2.10",
+      "purl": "pkg:npm/jose@6.2.11",
       "scope": "required",
       "tags": [
         "security"
       ],
       "type": "library",
-      "version": "6.2.10"
+      "version": "6.2.11"
     },
     {
       "authors": [
@@ -30994,7 +30994,7 @@
           "name": "engineering@posthog.com"
         }
       ],
-      "bom-ref": "pkg:npm/posthog-js@1.426.2",
+      "bom-ref": "pkg:npm/posthog-js@1.427.2",
       "description": "Posthog-js allows you to automatically capture usage and send events to PostHog.",
       "evidence": {
         "identity": [
@@ -31053,10 +31053,10 @@
           "value": "apps/web/node_modules/posthog-js/package.json"
         }
       ],
-      "purl": "pkg:npm/posthog-js@1.426.2",
+      "purl": "pkg:npm/posthog-js@1.427.2",
       "scope": "required",
       "type": "library",
-      "version": "1.426.2"
+      "version": "1.427.2"
     },
     {
       "authors": [
